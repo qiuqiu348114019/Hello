@@ -1,2 +1,3 @@
 # Hello
-create hello
+创造你好
+创造新的主人学习指南的方法
